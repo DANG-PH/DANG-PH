@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0010,40:1e0933,100:4c1d95&height=120&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=f3e8ff&fontAlignY=50&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=67&descSize=14&descColor=d8b4fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c18,50:0c2340,100:0e7490&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=e0f2fe&fontAlignY=52&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=70&descSize=14&descColor=7dd3fc" width="100%" />
 </div>
 
 <br/>
@@ -57,15 +57,15 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=c084fc&icon_color=c084fc&text_color=94a3b8&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=c084fc&text_color=94a3b8&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=a855f7&ring=4c1d95&fire=c084fc&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=c084fc&sideNums=c084fc" />
+  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=0ea5e9&ring=0e7490&fire=38bdf8&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=38bdf8" />
 </div>
 
 <br/>
@@ -81,5 +81,5 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:4c1d95,50:1e0933,100:0a0010&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:0c2340,100:020c18&height=80&section=footer" width="100%" />
 </div>
