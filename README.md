@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**DANG-PH/DANG-PH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="140">
+      <img src="https://i.pinimg.com/originals/fd/91/b1/fd91b1715061efc79dbb6678aea0f9b9.gif" width="120" style="border-radius:50%;" />
+    </td>
+    <td>
+      <h2>DANG PH</h2>
+      <p>Backend Developer</p>
+    </td>
+  </tr>
+</table>
