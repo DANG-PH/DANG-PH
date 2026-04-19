@@ -4,14 +4,6 @@
 
 <br/>
 
-```
-Designed & operated an 11-service production MMORPG backend.
-Stable at ~1,000 RPS · p50 ~60ms · 0% distributed transaction failures.
-Focus: concurrency control · distributed systems · system reliability.
-```
-
-<br/>
-
 ## Stack
 
 **Language**
