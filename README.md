@@ -1,19 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,40:3b0764,70:7e1d5b,100:be185d&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=fdf2f8&fontAlignY=52&desc=Backend%20Game%20DEngineer&descAlignY=70&descSize=14&descColor=f9a8d4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,40:3b0764,70:7e1d5b,100:be185d&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=fdf2f8&fontAlignY=52&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=70&descSize=14&descColor=f9a8d4" width="100%" />
 </div>
 
 <br/>
 
-```
-11-service production MMORPG backend · 14 months · 24/7
-Stable ~1,000 RPS · p50 ~60ms · p95 ~230ms · p99 <500ms · error rate ~0.1%
-Stress-tested 3,000 VUs (k6) · saturation at ~1,200 RPS · cross-region HN ↔ HCM
-Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scaling
-```
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/dangph.ptit@gmail.com-20232a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:dangph.ptit@gmail.com)
+  [![Location](https://img.shields.io/badge/Hà_Nội,_Việt_Nam-20232a?style=flat-square&logo=googlemaps&logoColor=4285F4)](https://maps.google.com/?q=Hanoi,Vietnam)
+  [![GitHub](https://img.shields.io/badge/DANG--PH-20232a?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/DANG-PH)
+  [![Status](https://img.shields.io/badge/Open_to_Backend_Roles-20232a?style=flat-square&logo=handshake&logoColor=22c55e)](#)
+
+</div>
 
 <br/>
 
-## Stack
+---
+
+### About
+
+Backend engineer with hands-on experience designing and operating distributed systems under real production traffic.
+Built and maintained an **11-service MMORPG backend** from scratch — 14 months in production, 24/7, shipping 26 client releases in the first 1.5 months.
+
+Focus areas: **concurrency control · distributed transactions · system reliability · event-driven architecture**
+
+---
+
+### Performance — Sacred Dragon Warriors
+
+> Soak test at ~1,000 RPS · k6 · cross-region Hanoi ↔ Ho Chi Minh City
+
+<div align="center">
+
+| Metric | Soak (~1,000 RPS) | Stress peak (~1,500 RPS) |
+|--------|:-----------------:|:------------------------:|
+| p50 latency | ~60ms | ~180ms |
+| p95 latency | ~230ms | ~650ms |
+| p99 latency | <500ms | >800ms |
+| Error rate | ~0.1% | ~1.6% |
+| Success rate | ~99.9% | ~98.4% |
+
+</div>
+
+> Stress-tested up to **3,000 virtual users** · System saturation identified at **~1,200 RPS**
+> Stable operating range determined: **~700–1,000 RPS**
+
+**Infrastructure:** 3-node Ubuntu VPS cluster · 2 vCPU / 4 GB RAM per node · horizontal scaling · load balancing across instances
+
+---
+
+### Stack
 
 **Language**
 
@@ -40,10 +76,11 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 
 **Architecture & Patterns**
 
-![Microservices](https://img.shields.io/badge/Microservices-20232a?style=flat-square&logo=apachekafka&logoColor=ffffff)
-![Saga](https://img.shields.io/badge/Saga_%2B_Outbox-20232a?style=flat-square&logo=buffer&logoColor=c084fc)
+![Microservices](https://img.shields.io/badge/Microservices-20232a?style=flat-square&logo=buffer&logoColor=c084fc)
+![Saga+Outbox](https://img.shields.io/badge/Saga_%2B_Outbox-20232a?style=flat-square&logo=buffer&logoColor=f472b6)
 ![CQRS](https://img.shields.io/badge/CQRS-20232a?style=flat-square&logo=buffer&logoColor=818cf8)
-![Event Driven](https://img.shields.io/badge/Event--Driven-20232a?style=flat-square&logo=apachekafka&logoColor=f472b6)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-20232a?style=flat-square&logo=apachekafka&logoColor=a78bfa)
+![Idempotency](https://img.shields.io/badge/Idempotency-20232a?style=flat-square&logo=buffer&logoColor=e879f9)
 
 **DevOps & Infra**
 
@@ -51,38 +88,37 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 ![Nginx](https://img.shields.io/badge/Nginx-20232a?style=flat-square&logo=nginx&logoColor=009639)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-20232a?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Linux](https://img.shields.io/badge/Linux-20232a?style=flat-square&logo=linux&logoColor=FCC624)
-![PM2](https://img.shields.io/badge/PM2-20232a?style=flat-square&logo=pm2&logoColor=2B037A)
+![PM2](https://img.shields.io/badge/PM2-20232a?style=flat-square&logo=pm2&logoColor=7c3aed)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232a?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-**Observability** *(learning)*
+**Security**
+
+![JWT](https://img.shields.io/badge/JWT-20232a?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
+![OAuth2](https://img.shields.io/badge/OAuth2-20232a?style=flat-square&logo=auth0&logoColor=EB5424)
+![RBAC](https://img.shields.io/badge/RBAC-20232a?style=flat-square&logo=hackthebox&logoColor=f472b6)
+![2FA](https://img.shields.io/badge/2FA-20232a?style=flat-square&logo=authy&logoColor=EC1C24)
+
+**Observability** *(in progress)*
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-20232a?style=flat-square&logo=prometheus&logoColor=E6522C)
 ![Grafana](https://img.shields.io/badge/Grafana-20232a?style=flat-square&logo=grafana&logoColor=F46800)
 ![Jaeger](https://img.shields.io/badge/Jaeger-20232a?style=flat-square&logo=jaeger&logoColor=60d0e4)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-20232a?style=flat-square&logo=opentelemetry&logoColor=f5a623)
 
-**Message Queue** *(learning)*
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-20232a?style=flat-square&logo=apachekafka&logoColor=ffffff)
-
-**Security**
-
-![JWT](https://img.shields.io/badge/JWT-20232a?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
-![OAuth2](https://img.shields.io/badge/OAuth2-20232a?style=flat-square&logo=auth0&logoColor=EB5424)
-
-**Testing** *(learning)*
+**Testing & Load** *(in progress)*
 
 ![Jest](https://img.shields.io/badge/Jest-20232a?style=flat-square&logo=jest&logoColor=C21325)
 ![k6](https://img.shields.io/badge/k6-20232a?style=flat-square&logo=k6&logoColor=7D64FF)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-20232a?style=flat-square&logo=apachekafka&logoColor=ffffff)
 
-<br/>
+---
 
-## Stats
+### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=f472b6&icon_color=f472b6&text_color=94a3b8&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=94a3b8&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=f472b6&icon_color=f472b6&text_color=94a3b8&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=94a3b8&langs_count=6" height="160" />
 </div>
 
 <br/>
@@ -91,17 +127,7 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
   <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=be185d&ring=7e1d5b&fire=f472b6&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=f472b6&sideNums=f472b6" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="mailto:dangph.ptit@gmail.com">
-    <img src="https://img.shields.io/badge/dangph.ptit@gmail.com-20232a?style=flat-square&logo=gmail&logoColor=EA4335" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hà_Nội,_Việt_Nam-20232a?style=flat-square&logo=googlemaps&logoColor=4285F4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_to_Backend_Roles-20232a?style=flat-square&logo=handshake&logoColor=22c55e" />
-</div>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,40:7e1d5b,70:3b0764,100:0a0010&height=80&section=footer" width="100%" />
