@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c18,50:0c2340,100:0e7490&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=e0f2fe&fontAlignY=52&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=70&descSize=14&descColor=7dd3fc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,40:3b0764,70:7e1d5b,100:be185d&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=fdf2f8&fontAlignY=52&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=70&descSize=14&descColor=f9a8d4" width="100%" />
 </div>
 
 <br/>
@@ -38,6 +38,13 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 ![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-20232a?style=flat-square&logo=redis&logoColor=DC382D)
 
+**Architecture & Patterns**
+
+![Microservices](https://img.shields.io/badge/Microservices-20232a?style=flat-square&logo=apachekafka&logoColor=ffffff)
+![Saga](https://img.shields.io/badge/Saga_%2B_Outbox-20232a?style=flat-square&logo=buffer&logoColor=c084fc)
+![CQRS](https://img.shields.io/badge/CQRS-20232a?style=flat-square&logo=buffer&logoColor=818cf8)
+![Event Driven](https://img.shields.io/badge/Event--Driven-20232a?style=flat-square&logo=apachekafka&logoColor=f472b6)
+
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=2496ED)
@@ -47,25 +54,41 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 ![PM2](https://img.shields.io/badge/PM2-20232a?style=flat-square&logo=pm2&logoColor=2B037A)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232a?style=flat-square&logo=githubactions&logoColor=2088FF)
 
+**Observability** *(learning)*
+
+![Prometheus](https://img.shields.io/badge/Prometheus-20232a?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-20232a?style=flat-square&logo=grafana&logoColor=F46800)
+![Jaeger](https://img.shields.io/badge/Jaeger-20232a?style=flat-square&logo=jaeger&logoColor=60d0e4)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-20232a?style=flat-square&logo=opentelemetry&logoColor=f5a623)
+
+**Message Queue** *(learning)*
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-20232a?style=flat-square&logo=apachekafka&logoColor=ffffff)
+
 **Security**
 
 ![JWT](https://img.shields.io/badge/JWT-20232a?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
 ![OAuth2](https://img.shields.io/badge/OAuth2-20232a?style=flat-square&logo=auth0&logoColor=EB5424)
+
+**Testing** *(learning)*
+
+![Jest](https://img.shields.io/badge/Jest-20232a?style=flat-square&logo=jest&logoColor=C21325)
+![k6](https://img.shields.io/badge/k6-20232a?style=flat-square&logo=k6&logoColor=7D64FF)
 
 <br/>
 
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=f472b6&icon_color=f472b6&text_color=94a3b8&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=94a3b8&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=0ea5e9&ring=0e7490&fire=38bdf8&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=38bdf8" />
+  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=be185d&ring=7e1d5b&fire=f472b6&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=f472b6&sideNums=f472b6" />
 </div>
 
 <br/>
@@ -81,5 +104,5 @@ Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scali
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,50:0c2340,100:020c18&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,40:7e1d5b,70:3b0764,100:0a0010&height=80&section=footer" width="100%" />
 </div>
