@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=header&text=Phạm%20Hải%20Đăng&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer&descAlignY=75&descSize=14&descColor=aaaacc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0500,50:7c2d12,100:ea580c&height=130&section=header&text=Ph%E1%BA%A1m%20H%E1%BA%A3i%20%C4%90%C4%83ng&fontSize=32&fontColor=ffffff&fontAlignY=52&desc=Backend%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Microservices&descAlignY=70&descSize=14&descColor=fed7aa" width="100%" />
 </div>
+
+<br/>
+
+```
+11-service production MMORPG backend · 14 months · 24/7
+Stable ~1,000 RPS · p50 ~60ms · p95 ~230ms · p99 <500ms · error rate ~0.1%
+Stress-tested 3,000 VUs (k6) · saturation at ~1,200 RPS · cross-region HN ↔ HCM
+Infrastructure: 3-node VPS cluster · 2 vCPU / 4 GB RAM each · horizontal scaling
+```
 
 <br/>
 
@@ -48,25 +57,16 @@
 ## Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=94a3b8&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DANG-PH&show_icons=true&theme=transparent&hide_border=true&title_color=fb923c&icon_color=fb923c&text_color=94a3b8&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANG-PH&layout=compact&theme=transparent&hide_border=true&title_color=fb923c&text_color=94a3b8&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=a78bfa&sideNums=a78bfa" />
+  <img src="https://streak-stats.demolab.com?user=DANG-PH&theme=transparent&hide_border=true&stroke=fb923c&ring=fb923c&fire=ea580c&currStreakLabel=94a3b8&dates=64748b&sideLabels=94a3b8&currStreakNum=fb923c&sideNums=fb923c" />
 </div>
-
-<br/>
-
-## Projects
-
-| Project | Stack | Note |
-|---------|-------|------|
-| [🐉 Sacred Dragon Warriors](https://github.com/DANG-PH/MICROSERVICE_API_GATEWAY) | NestJS · gRPC · RabbitMQ · Redis · PostgreSQL | 11-service MMORPG backend · 14 months prod · 1,000 RPS |
-| [🌐 ngocrongdark.com](https://ngocrongdark.com) | Microservices · WebSocket · Saga + Outbox | Live game · 281 deployments · 26 client releases |
 
 <br/>
 
@@ -81,5 +81,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,50:7c2d12,100:1a0500&height=80&section=footer" width="100%" />
 </div>
