@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:05,045
+Hanni — ứng dụng học tiếng Trung theo chuẩn HSK 3.0, làm riêng cho người Việt.
+
+2
+00:00:05,098 --> 00:00:08,663
+Cùng xem một lượt, từ lúc mở app tới khi trở thành học viên.
+
+3
+00:00:09,225 --> 00:00:12,093
+Mở app là học được ngay, chưa cần tạo tài khoản.
+
+4
+00:00:12,145 --> 00:00:16,058
+Trang chủ chỉ có một lộ trình chia theo chủ đề và một nút Bắt đầu học.
+
+5
+00:00:22,898 --> 00:00:27,600
+Mỗi bài bắt đầu bằng thẻ giới thiệu từ: chữ Hán, phiên âm, nghĩa và câu ví dụ.
+
+6
+00:00:27,654 --> 00:00:31,999
+Riêng Hanni có thêm âm Hán Việt — “xin chào” đọc Hán Việt là “nễ hảo”.
+
+7
+00:00:32,051 --> 00:00:36,185
+Dấu tiếng Việt còn gợi ý thanh điệu: dấu hỏi thường ứng với thanh 3.
+
+8
+00:00:36,745 --> 00:00:39,961
+Bấm Đọc thử: app ghi âm và tự dừng khi bạn nói xong.
+
+9
+00:00:40,012 --> 00:00:46,851
+Đường cao độ giọng bạn được vẽ chồng lên giọng chuẩn và chấm điểm từng âm tiết — ngay trên máy, không tốn lượt AI.
+
+10
+00:00:47,413 --> 00:00:52,092
+Sau thẻ giới thiệu là trắc nghiệm nghĩa, nghe chọn từ, ghép cặp và điền từ vào câu.
+
+11
+00:00:59,407 --> 00:01:04,562
+Trả lời sai, app chỉ ra đáp án đúng và đưa câu đó xuống cuối bài để làm lại.
+
+12
+00:01:13,408 --> 00:01:18,018
+Bài 1 có 10 từ về chào hỏi: xin chào, cảm ơn, không có gì, xin lỗi…
+
+13
+00:01:27,409 --> 00:01:30,614
+Trả lời đúng, app đọc lại phát âm chuẩn của từ đó.
+
+14
+00:01:41,408 --> 00:01:44,891
+Từ nào chọn sai sẽ được hẹn ôn lại sớm hơn khi lưu tiến độ.
+
+15
+00:01:55,407 --> 00:01:57,102
+Cả bài chỉ khoảng 5 phút.
+
+16
+00:01:57,663 --> 00:02:02,493
+Xong bài là màn tổng kết, mời học tiếp bài 2 hoặc tạo tài khoản để lưu tiến độ.
+
+17
+00:02:06,744 --> 00:02:10,506
+Từ điển tra được bằng chữ Hán, phiên âm, hay tiếng Việt không dấu.
+
+18
+00:02:12,743 --> 00:02:16,366
+Gõ “hoc sinh”, kết quả đầu tiên là 学生 — học sinh.
+
+19
+00:02:21,739 --> 00:02:28,055
+Trang từ có nghĩa, câu ví dụ, cách viết từng nét và phần Nhớ bằng Hán Việt: học + sinh → học sinh.
+
+20
+00:02:33,032 --> 00:02:39,209
+Dán cả một câu tiếng Trung: Hanni tách từng từ, kèm phiên âm và âm Hán Việt, không cần AI.
+
+21
+00:02:39,263 --> 00:02:43,478
+Muốn hiểu ngữ pháp của câu thì có thêm nút phân tích bằng AI.
+
+22
+00:02:46,595 --> 00:02:52,633
+Luyện thi HSK có 10 đề thi thử đúng cấu trúc đề thật, từ HSK 1 tới HSK 4.
+
+23
+00:02:55,592 --> 00:03:00,190
+Làm bài có đồng hồ đếm ngược và bảng câu; ở đây làm thử vài câu đầu rồi nộp.
+
+24
+00:03:12,594 --> 00:03:18,829
+Nộp bài là có điểm từng phần, bảng đáp án và chữa từng câu bằng tiếng Việt, kèm từ vựng và âm Hán Việt.
+
+25
+00:03:37,777 --> 00:03:44,767
+Ngoài lộ trình còn có luyện nghe, luyện phát âm, luyện nói với AI, luyện viết chữ Hán và học qua video.
+
+26
+00:03:47,773 --> 00:03:51,442
+Trò chơi Ghép cặp: lật thẻ, tìm đúng cặp chữ Hán và nghĩa.
+
+27
+00:04:11,359 --> 00:04:14,506
+Khi muốn lưu, chỉ cần tạo tài khoản bằng email.
+
+28
+00:04:24,358 --> 00:04:30,317
+Bài vừa học lúc còn là khách được lưu ngay: trang chủ giờ có chuỗi 1 ngày học và nút Học tiếp bài 2.
+
+29
+00:04:44,539 --> 00:04:47,430
+Từ đã học được đưa vào lịch ôn lặp lại ngắt quãng.
+
+30
+00:04:47,484 --> 00:04:51,792
+Lật thẻ, tự chấm mình nhớ tới đâu — Hanni hẹn ngày gặp lại từng từ.
+
+31
+00:05:12,318 --> 00:05:16,475
+Trang tiến độ cho thấy vốn từ, báo cáo tuần và huy hiệu vừa mở khoá.
+
+32
+00:05:26,246 --> 00:05:32,109
+Luyện nói với AI: chọn một tình huống, AI đóng vai bằng tiếng Trung, mỗi câu có phiên âm.
+
+33
+00:05:38,240 --> 00:05:42,690
+Gõ hoặc nói câu trả lời, AI đáp lại ngay; bí từ thì bấm Gợi ý.
+
+34
+00:05:51,488 --> 00:05:55,215
+Giáo viên tạo lớp, nhận mã 6 ký tự để gửi cho học viên.
+
+35
+00:06:01,483 --> 00:06:06,104
+Sau đó giao bài học hoặc đề thi thử, xem ai đã làm, ai học đều mỗi ngày.
+
+36
+00:06:13,815 --> 00:06:18,439
+Mọi bài học đều miễn phí; Premium chỉ mở thêm tiện ích AI.
+
+37
+00:06:20,808 --> 00:06:24,872
+Chọn gói rồi thanh toán bằng mã QR ngân hàng ngay trong ứng dụng.
+
+38
+00:06:30,809 --> 00:06:34,896
+Ở Tài khoản có đổi ảnh đại diện, và app có cả chế độ tối.
+
+39
+00:06:57,658 --> 00:07:02,500
+Hanni: một lộ trình, một nút Học tiếp, và âm Hán Việt làm cầu nối cho người Việt.
+
+40
+00:07:02,553 --> 00:07:05,189
+Cảm ơn thầy cô và các bạn đã theo dõi.
